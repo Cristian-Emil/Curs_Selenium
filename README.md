@@ -1,6 +1,6 @@
 RO
 
-In cadrul acestui repository sunt prezentate mai multe clase care folosesc ChromeDriver si WebDriver pentru a verifica anumite elemente de paginile de Web.
+In cadrul acestui repository sunt prezentate mai multe clase care folosesc ChromeDriver si WebDriver pentru a verifica anumite elemente din paginile de Web.
 XPOM.ML are inserate liniile de apelare ale SELENIUM si MAVEN , cele care fac posibila apelarea paginilor web si a url-urilor solicitate. 
 
 EN
