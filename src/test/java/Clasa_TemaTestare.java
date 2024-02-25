@@ -38,7 +38,8 @@ public class Clasa_TemaTestare {
 //  Pentru a da click pe butonul de login o sa folosim varinta lunga de comanda , varianta scurta este comentata:
 //        driver.findElement(By.xpath("/html/body/div[6]/div/div/div/div/div[2]/div[1]/div/form/div[3]/button")).click();
 
-        WebElement login_page = driver.findElement(By.cssSelector("body > div.master-wrapper-page > div > div > div > div > div.page-body > div.customer-blocks > div > form > div.buttons > button"));
+        WebElement login_page = driver.findElement(By.cssSelector
+                ("body > div.master-wrapper-page > div > div > div > div > div.page-body > div.customer-blocks > div > form > div.buttons > button"));
         login_page.click();
         Thread.sleep(500);
 

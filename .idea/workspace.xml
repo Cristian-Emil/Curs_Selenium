@@ -4,19 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_ChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_TemaTestare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_URL_Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver.java" afterDir="false" />
+    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect in limba Romana pt Selenium - partea a 2-a">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_AlertInputInbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_AlertWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Atribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Browser_Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_DropDownNoTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_DropDownTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_HandleBrowser_Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_HandleBrowser_Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_InnerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_dropDown_AutoSugg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_dropDown_Dynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_TemaTestare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_TemaTestare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,38 +55,52 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/QA_Automat_T1/src/QA_Automat_T1.iml&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CRISTIAN ZIDARESCU\IdeaProjects\Project_with_Selenium\src\test\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Clasa_TemaTestare">
-    <configuration name="Clasa_ChromeDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_ChromeDriver" />
+  <component name="RunManager" selected="Application.Clasa_HandleBrowser_Method2">
+    <configuration name="Clasa_AlertInputInbox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clasa_AlertInputInbox" />
       <module name="Project_with_Selenium" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clasa_TemaTestare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_TemaTestare" />
+    <configuration name="Clasa_Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clasa_Frame" />
       <module name="Project_with_Selenium" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clasa_URL_Browser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_URL_Browser" />
+    <configuration name="Clasa_HandleBrowser_Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clasa_HandleBrowser_Method1" />
       <module name="Project_with_Selenium" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clasa_WebDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_WebDriver" />
+    <configuration name="Clasa_HandleBrowser_Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clasa_HandleBrowser_Method2" />
+      <module name="Project_with_Selenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_InnerFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clasa_InnerFrame" />
       <module name="Project_with_Selenium" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,10 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Clasa_TemaTestare" />
-        <item itemvalue="Application.Clasa_URL_Browser" />
-        <item itemvalue="Application.Clasa_WebDriver" />
-        <item itemvalue="Application.Clasa_ChromeDriver" />
+        <item itemvalue="Application.Clasa_HandleBrowser_Method2" />
+        <item itemvalue="Application.Clasa_HandleBrowser_Method1" />
+        <item itemvalue="Application.Clasa_InnerFrame" />
+        <item itemvalue="Application.Clasa_Frame" />
+        <item itemvalue="Application.Clasa_AlertInputInbox" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +125,21 @@
       <option name="presentableId" value="Default" />
       <updated>1707311195774</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proiect in limba Romana pt Selenium">
+      <created>1707485624542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707485624542</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Proiect in limba Romana pt Selenium - partea a 2-a">
+      <created>1708665685630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708665685630</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +155,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Proiect in limba Romana pt Selenium" />
+    <MESSAGE value="Proiect in limba Romana pt Selenium - partea a 2-a" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proiect in limba Romana pt Selenium - partea a 2-a" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
