@@ -1,1 +1,5 @@
-Aici avem partea a 2-a si a 3-a a proiectului inceput pe branch-ul de main.
+Am adaugat partea 1
+
+Am adaugat partea a 2-a
+
+Am adaugat partea a 3-a
