@@ -4,24 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect in limba Romana pt Selenium - partea a 2-a">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_AlertInputInbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_AlertWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Atribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Browser_Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_CheckBox.java" afterDir="false" />
+    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect in limba Romana pt Selenium - partea a 3-a">
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_DropDownNoTag.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_DropDownTag.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Frame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_HandleBrowser_Method1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_HandleBrowser_Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_HandleTable_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_InnerFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_dropDown_AutoSugg.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_dropDown_Dynamic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_AlertInputInbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_AlertInputInbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_AlertWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_AlertWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Atribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Atribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Browser_Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Browser_Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_CheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_ChromeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_ChromeDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_TemaTestare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_TemaTestare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_URL_Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_URL_Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Wait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Explicit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Explicit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Fluent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Fluent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_CondCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_CondCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_GetMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Locatoare_elemente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locatoare_elemente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Locator_cssSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locator_cssSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Locator_xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locator_xpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Locator_xpath_axes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locator_xpath_axes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +82,7 @@
       <recent name="tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Clasa_HandleBrowser_Method2">
-    <configuration name="Clasa_AlertInputInbox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_AlertInputInbox" />
-      <module name="Project_with_Selenium" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Clasa_HandleTable_1">
     <configuration name="Clasa_Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Clasa_Frame" />
       <module name="Project_with_Selenium" />
@@ -99,6 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Clasa_HandleTable_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clasa_HandleTable_1" />
+      <module name="Project_with_Selenium" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Clasa_InnerFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Clasa_InnerFrame" />
       <module name="Project_with_Selenium" />
@@ -108,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clasa_HandleTable_1" />
         <item itemvalue="Application.Clasa_HandleBrowser_Method2" />
         <item itemvalue="Application.Clasa_HandleBrowser_Method1" />
         <item itemvalue="Application.Clasa_InnerFrame" />
         <item itemvalue="Application.Clasa_Frame" />
-        <item itemvalue="Application.Clasa_AlertInputInbox" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708665685630</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Proiect in limba Romana pt Selenium - partea a 3-a">
+      <created>1708874463963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708874463963</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +176,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Proiect in limba Romana pt Selenium" />
     <MESSAGE value="Proiect in limba Romana pt Selenium - partea a 2-a" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proiect in limba Romana pt Selenium - partea a 2-a" />
+    <MESSAGE value="Proiect in limba Romana pt Selenium - partea a 3-a" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proiect in limba Romana pt Selenium - partea a 3-a" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

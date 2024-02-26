@@ -1,3 +1,7 @@
+/*
+Ce este un explict wait. Unde, cand si cum se foloseste
+ */
+
 import drivers.DriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

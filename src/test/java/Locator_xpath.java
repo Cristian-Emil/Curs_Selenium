@@ -1,4 +1,6 @@
-
+/*
+Definirea si utilizarea locatorului de tip XPATH
+ */
 import drivers.DriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

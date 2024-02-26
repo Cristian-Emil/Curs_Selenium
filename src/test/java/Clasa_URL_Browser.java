@@ -1,3 +1,10 @@
+/*
+Utilizarea findElement pentru utilizarea unui anumit element cautat. Mai jos este prezenata modul in care il cautam in DOM.
+Cautam in DOM - document object model, in linia din document elementul care defineste acesta casuta in HTML si apoi
+sa cauta in lina de comanda locatia acestuia cu ID, cssSelector, XPATH
+
+ */
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

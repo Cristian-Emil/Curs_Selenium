@@ -1,4 +1,6 @@
-// Partea de Driver Manager a fost mutat in fisierul drivers/DriverManager de unde este apelata prin extinderea clasei
+/* Atentie : partea de Driver Manager a fost mutat in fisierul drivers/DriverManager pentru na usura cklasa si
+acesta este  apelata de acolo prin extinderea clasei
+*/
 
 import drivers.DriverManager;
 import org.openqa.selenium.By;

@@ -1,3 +1,7 @@
+/*
+Ce este conditional commands, cum apelam/accesam aceste comenzi prin WebElement
+ */
+
 import drivers.DriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -31,7 +35,7 @@ public class Clasa_WebDriver_CondCommand extends DriverManager {
         }
 
 /*
-conditional commands - accesam aceste comenzi prin webElement, nu instanta insasi
+    conditional commands - accesam aceste comenzi prin webElement, nu instanta insasi
     ele returneaza valori true/fals (valori de tip boolean)
 
     isDisplayed()   - este afisat  si afiseaza true daca elementul este afisat si fals daca nu apare pe ecran

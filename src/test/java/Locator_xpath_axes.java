@@ -1,6 +1,9 @@
-import drivers.DriverManager;
+/*
+Definirea si utilizarea locatorului XPATH-AXES
+ */
 
-import io.github.bonigarcia.wdm.WebDriverManager;
+import drivers.DriverManager;
+// import io.github.bonigarcia.wdm.WebDriverManager;    // se preia din clasa de DriverManager si nu web
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

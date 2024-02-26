@@ -45,10 +45,13 @@ public class Clasa_ChromeDriver {
 //  Pentru cum se utilizeaza varianta  ... WebDriver driver = new ChromeDriver(); ...  vezi clasa Clasa_cu_WebDriver
 
 /*
-    ATENTIE - INDIFERENT ca folosinm ChromeDRIVER, WebRIVER sau alt Driver o sa folosim mereu termenul "new" pentru a creea
-    o noua instanta a unei clase si a apela constructorul clasei respective
+    ATENTIE - INDIFERENT ca folosim ChromeDRIVER, WebRIVER sau alt Driver o sa folosim mereu termenul "new" cu care se
+    creeaza o noua instanta a unei clase si se apeleaza constructorul clasei respective
 
-    Avem obligatia sa facem up-date pentru driver si selenium la ultima versiune aparuta. Aici folosim chromedriver.
+    Avem obligatia sa facem up-date pentru DRIVERUL DE CHROME/FOX/EDGE/ETC. si SELENIUM la ultima versiune aparuta.
+    Aici folosim chromedriver acre este in locatia:
+    C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/- driver Selenium-Maven/ChromeDriver/chromedriver.exe
+
 */
 
     }

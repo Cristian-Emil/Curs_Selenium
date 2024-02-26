@@ -3,7 +3,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.util.Set;
+// import java.util.Set;
 
 public class Clasa_Browser_Status extends DriverManager {
 

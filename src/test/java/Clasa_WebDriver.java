@@ -1,4 +1,4 @@
-// Cum putem utiliza o clasa care foloseste WEBDRIVER
+// Cum putem utiliza o clasa care foloseste WEBDRIVER - explicatii si instructiuni
 
 /*
 Folosim variante
@@ -33,7 +33,6 @@ public class Clasa_WebDriver {
 //  Afișează versiunea ChromeDriver
         System.out.println("Versiunea ChromeDriver instalată este: " + chromeVersion +
                 "\n" + "Astfel am creat si apelat o noua instanta de WebDriver" );
-
 
 
 /*  In general cand se creaza un obiect ChromeDrive se instantiaza o clasa CHROMEDRIVER object. Cand se utilizeaza WebDriver

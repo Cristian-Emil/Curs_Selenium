@@ -1,4 +1,4 @@
-// Exercitiul se face pe pagina https://testpages.herokuapp.com/styled/attributes-test.html
+// Exercitiul se face pe pagina https://testpages.herokuapp.com/styled/attributes-test.html , de verificat ca e valida
 
 import drivers.DriverManager;
 import org.openqa.selenium.By;

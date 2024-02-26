@@ -1,3 +1,8 @@
+/*
+Se insereaza anmite valori pentru acesarea paginilor - CREDENTIALE.
+Primul pas e sa se verifice ca acele casute sau campuri sunt libere si adresabile
+ */
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
@@ -21,7 +26,7 @@ public class Clasa_TemaTestare {
         driver.manage().window().maximize();
 
 
-//  Inseram username si parola dar pentru ca valorile sunt deja inserate trebuie mai intia sa curatam casutele :
+//  Inseram username si parola dar pentru ca valorile sunt deja inserate trebuie mai intai sa curatam casutele :
 
         WebElement userName = driver.findElement(By.xpath("//*[@id=\"Email\"]"));
         userName.clear();
@@ -78,7 +83,7 @@ public class Clasa_TemaTestare {
         driver.quit();
     }
 
-/*  Daca dorim sa inseram alte credentiale pentr USERNAME si PAROLA trebuie sa curatam intia valorile existente:
+/*  Daca dorim sa inseram alte credentiale pentr USERNAME si PAROLA trebuie sa curatam intai valorile existente:
 
     WebElement text_mail_box= driver.findElement(By.xpath("//*[@id=\"nopcommerce-news-box\"]/div[1]/div[1]"));
     text_mail_boc.clear();

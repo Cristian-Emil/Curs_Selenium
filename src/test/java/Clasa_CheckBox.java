@@ -1,4 +1,9 @@
-// Aceasta clasa trateaza problema apelarii, afisarii si inspectiei checkbox-urilor
+/* Aceasta clasa trateaza problema apelarii, afisarii si inspectiei checkbox-urilor de pe paginile de site
+https://itera-qa.azurewebsites.net/home/automation"
+https://automationintesting.com/selenium/testpage/
+http://test.rubywatir.com/index.php
+*/
+
 
 import drivers.DriverManager;
 import org.openqa.selenium.By;

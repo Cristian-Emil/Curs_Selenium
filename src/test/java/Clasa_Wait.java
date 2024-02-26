@@ -1,3 +1,10 @@
+/*
+|Este descris modul in care se poate utiliza un WAIT
+- implicit wait
+- explicit wait
+
+ */
+
 import drivers.DriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

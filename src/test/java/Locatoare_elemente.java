@@ -1,3 +1,7 @@
+/*
+Cum utilizam locatoarele de elemente pe paginile WEB
+ */
+
 import drivers.DriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

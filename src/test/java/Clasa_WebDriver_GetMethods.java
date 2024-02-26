@@ -1,9 +1,6 @@
-//  Numele corect este de Get Methoids dar am preferat sa pastram numele initial.
-
-
+//  Numele corect este de Get Methods dar am preferat sa pastram numele initial.
 /*
-Utilizare comenzilor si metodelor in SELENIUM
-
+Utilizare comenzilor si metodelor in SELENIUM pentru acestea:
     get methods
     conditional methods
     navigational methods
@@ -60,8 +57,6 @@ get methods - putem utiliza aceste metode prin instanta webdriver apelata
     getWindowsHandle()  - returneaza browserul de Windows, unul anume pe care il apelam din functie
     getwindowHandles()  - returneaza toate browserele care sunt active
  */
-
-
 
         System.out.println("Titlul paginii apelate : " + driver.getTitle());
 

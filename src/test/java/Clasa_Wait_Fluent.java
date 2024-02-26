@@ -1,3 +1,7 @@
+/*
+Se explica modul in care generam FLUENT WAIT si apoi il apelam.
+ */
+
 import drivers.DriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
