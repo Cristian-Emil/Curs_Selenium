@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect in limba Romana pt Selenium - partea a 3-a">
+    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect in limba Romana pt Selenium - mutam toate classel epe MAIN">
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_DropDownNoTag.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_DropDownTag.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Frame.java" afterDir="false" />
@@ -15,25 +15,6 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_dropDown_AutoSugg.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_dropDown_Dynamic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_AlertInputInbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_AlertInputInbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_AlertWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_AlertWindows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Atribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Atribute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Browser_Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Browser_Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_CheckBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_ChromeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_ChromeDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_TemaTestare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_TemaTestare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_URL_Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_URL_Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Wait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Explicit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Explicit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Fluent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Fluent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_CondCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_CondCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_GetMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Locatoare_elemente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locatoare_elemente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Locator_cssSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locator_cssSelect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Locator_xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locator_xpath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Locator_xpath_axes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Locator_xpath_axes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -69,6 +51,11 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/QA_Automat_T1/src/QA_Automat_T1.iml&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -158,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708874463963</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Proiect in limba Romana pt Selenium - mutam toate classel epe MAIN">
+      <created>1708961549452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708961549452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +171,8 @@
     <MESSAGE value="Proiect in limba Romana pt Selenium" />
     <MESSAGE value="Proiect in limba Romana pt Selenium - partea a 2-a" />
     <MESSAGE value="Proiect in limba Romana pt Selenium - partea a 3-a" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proiect in limba Romana pt Selenium - partea a 3-a" />
+    <MESSAGE value="Proiect in limba Romana pt Selenium - mutam toate classel epe MAIN" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proiect in limba Romana pt Selenium - mutam toate classel epe MAIN" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
