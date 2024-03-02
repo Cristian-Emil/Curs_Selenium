@@ -4,7 +4,7 @@ In cadrul acestui repository sunt prezentate mai multe clase care folosesc Chrom
 XPOM.ML are inserate liniile de apelare ale SELENIUM si MAVEN , cele care fac posibila apelarea paginilor web si a url-urilor solicitate. 
 In branch-ul de MASTER se gaseste tot proiectul, toate clasele care il compun. Calea catrea acestea :
 
-(https://github.com/Cristian-Emil/Curs_Selenium/tree/master/src/test/java)
+https://github.com/Cristian-Emil/Curs_Selenium/tree/master/src/test/java
 
 
 
