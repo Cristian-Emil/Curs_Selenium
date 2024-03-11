@@ -6,6 +6,7 @@ In branch-ul de MASTER se gaseste tot proiectul, toate clasele care il compun. C
 
 https://github.com/Cristian-Emil/Curs_Selenium/tree/master/src/test/java
 
+Activitatea a fot impartite pe zile. De la ziua 20 am inceput sa avem exercitii si clase zilnice 
 
 
 
@@ -16,3 +17,5 @@ XPOM.ML have inserted the calling lines of SELENIUM and MAVEN, which make it pos
 In MASTER branch-ul you found complet project , all the classes. See the way :
 
 https://github.com/Cristian-Emil/Curs_Selenium/tree/master/src/test/java
+
+Activity was splitted in days. Starting from day number 20 we divide exercises in daily classes. 
