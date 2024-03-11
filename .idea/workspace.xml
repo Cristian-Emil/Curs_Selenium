@@ -4,17 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect in limba Romana pt Selenium - mutam toate classel epe MAIN">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_DropDownNoTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_DropDownTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Frame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_HandleBrowser_Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_HandleBrowser_Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_HandleTable_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_InnerFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_dropDown_AutoSugg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_dropDown_Dynamic.java" afterDir="false" />
+    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect in limba Romana pt Selenium - mutam toate clasele pe MAIN">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_fizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_DropDownNoTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_DropDownTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_DropDown_Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_dropDown_AutoSugg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_dropDown_Dynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_HandleBrowser_Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_HandleBrowser_Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_InnerFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_HandleTable_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_HandleTable_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_PaginationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_DataPicker_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_SmallElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_Tema_CumparamBilet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Mouse_Action1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Mouse_RightClick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,37 +80,49 @@
       <recent name="tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Clasa_HandleTable_1">
-    <configuration name="Clasa_Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_Frame" />
+  <component name="RunManager" selected="Application.Clasa_Mouse_RightClick">
+    <configuration name="Clasa_Mouse_Action1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ziua_29.Clasa_Mouse_Action1" />
       <module name="Project_with_Selenium" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clasa_HandleBrowser_Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_HandleBrowser_Method1" />
+    <configuration name="Clasa_Mouse_RightClick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ziua_29.Clasa_Mouse_RightClick" />
+      <module name="Project_with_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_PaginationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ziua_27.Clasa_PaginationTable" />
+      <module name="Project_with_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_SmallElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ziua_28.Clasa_SmallElement" />
       <module name="Project_with_Selenium" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clasa_HandleBrowser_Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_HandleBrowser_Method2" />
-      <module name="Project_with_Selenium" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Clasa_HandleTable_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_HandleTable_1" />
-      <module name="Project_with_Selenium" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Clasa_InnerFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clasa_InnerFrame" />
+    <configuration name="Clasa_Tema_CumparamBilet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ziua_28.Clasa_Tema_CumparamBilet" />
       <module name="Project_with_Selenium" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Clasa_HandleTable_1" />
-        <item itemvalue="Application.Clasa_HandleBrowser_Method2" />
-        <item itemvalue="Application.Clasa_HandleBrowser_Method1" />
-        <item itemvalue="Application.Clasa_InnerFrame" />
-        <item itemvalue="Application.Clasa_Frame" />
+        <item itemvalue="Application.Clasa_Mouse_RightClick" />
+        <item itemvalue="Application.Clasa_PaginationTable" />
+        <item itemvalue="Application.Clasa_Mouse_Action1" />
+        <item itemvalue="Application.Clasa_Tema_CumparamBilet" />
+        <item itemvalue="Application.Clasa_SmallElement" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708961549452</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Proiect in limba Romana pt Selenium - mutam toate clasele pe MAIN">
+      <created>1708962759282</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708962759282</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +202,8 @@
     <MESSAGE value="Proiect in limba Romana pt Selenium - partea a 2-a" />
     <MESSAGE value="Proiect in limba Romana pt Selenium - partea a 3-a" />
     <MESSAGE value="Proiect in limba Romana pt Selenium - mutam toate classel epe MAIN" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proiect in limba Romana pt Selenium - mutam toate classel epe MAIN" />
+    <MESSAGE value="Proiect in limba Romana pt Selenium - mutam toate clasele pe MAIN" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proiect in limba Romana pt Selenium - mutam toate clasele pe MAIN" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -181,6 +212,11 @@
           <properties class="java.net.SocketException" package="java.net" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../../TEMP/Day 28/Solutions/BlazeDemo.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
