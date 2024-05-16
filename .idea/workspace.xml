@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect in limba Romana pt Selenium - mutam toate clasele pe MAIN">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_fizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_DropDownNoTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_DropDownTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_DropDown_Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_dropDown_AutoSugg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_dropDown_Dynamic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_Frame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_HandleBrowser_Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_HandleBrowser_Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_InnerFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_HandleTable_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_HandleTable_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_PaginationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_DataPicker_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_SmallElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_Tema_CumparamBilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Mouse_Action1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Mouse_RightClick.java" afterDir="false" />
+    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect-Selenium - curs in limba romana">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Double_click.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_DragAndDrop2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Mouse_RightClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Mouse_RightClick.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +44,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/QA_Automat_T1/src/QA_Automat_T1.iml&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CRISTIAN ZIDARESCU/IdeaProjects/proiect_IT_FACT_final&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -80,10 +64,42 @@
       <recent name="tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Clasa_Mouse_RightClick">
-    <configuration name="Clasa_Mouse_Action1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ziua_29.Clasa_Mouse_Action1" />
+  <component name="RunManager" selected="Application.Clasa_DragAndDrop">
+    <configuration name="Clasa_Double_click" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ziua_29.Clasa_Double_click" />
       <module name="Project_with_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_DragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ziua_29.Clasa_DragAndDrop" />
+      <module name="Project_with_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clasa_DragAndDrop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ziua_29.Clasa_DragAndDrop2" />
+      <module name="Project_with_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ziua_29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,27 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clasa_SmallElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ziua_28.Clasa_SmallElement" />
-      <module name="Project_with_Selenium" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Clasa_Tema_CumparamBilet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ziua_28.Clasa_Tema_CumparamBilet" />
-      <module name="Project_with_Selenium" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clasa_DragAndDrop" />
+        <item itemvalue="Application.Clasa_DragAndDrop2" />
+        <item itemvalue="Application.Clasa_Double_click" />
         <item itemvalue="Application.Clasa_Mouse_RightClick" />
         <item itemvalue="Application.Clasa_PaginationTable" />
-        <item itemvalue="Application.Clasa_Mouse_Action1" />
-        <item itemvalue="Application.Clasa_Tema_CumparamBilet" />
-        <item itemvalue="Application.Clasa_SmallElement" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708962759282</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Proiect-Selenium - curs in limba romana">
+      <created>1710162969047</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710162969047</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +212,8 @@
     <MESSAGE value="Proiect in limba Romana pt Selenium - partea a 3-a" />
     <MESSAGE value="Proiect in limba Romana pt Selenium - mutam toate classel epe MAIN" />
     <MESSAGE value="Proiect in limba Romana pt Selenium - mutam toate clasele pe MAIN" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proiect in limba Romana pt Selenium - mutam toate clasele pe MAIN" />
+    <MESSAGE value="Proiect-Selenium - curs in limba romana" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proiect-Selenium - curs in limba romana" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
