@@ -8,5 +8,5 @@ Am adaugat partea a 4-a. Ca sa fie mai usor de urmarit evolutia claselor acestea
 
 Am completat ziua 29 cu inca 2 clase 
 
-Am ajuns la ziua 41. Toate clasele au fost compkletate si rearanajte.
+Am ajuns la ziua 41. Toate clasele au fost completate si rearanjate. Zilele 16-20 sunt diverse exercitii si clase ajutatoare.
 
