@@ -6,7 +6,8 @@ In branch-ul de MASTER se gaseste tot proiectul, toate clasele care il compun. C
 
 https://github.com/Cristian-Emil/Curs_Selenium/tree/master/src/test/java
 
-Activitatea a fot impartite pe zile. De la ziua 20 am inceput sa avem exercitii si clase zilnice
+Activitatea a fot impartite pe zile. De la ziua 21 am inceput sa avem exercitii si clase zilnice
+In clasa ziua_16_20 avem diverse exercitii si clase ajutatoare.
 Vezi branch-ul MASTER unde sunt toate afisate.
 
 
@@ -19,5 +20,6 @@ In MASTER branch-ul you found complet project , all the classes. See the way :
 
 https://github.com/Cristian-Emil/Curs_Selenium/tree/master/src/test/java
 
-Activity was splitted in days. Starting from day number 20 we divide exercises in daily classes. 
+Activity was splitted in days. Starting from day number 21 we divide exercises in daily classes.
+In class ziua_16_20 we have various exercises and helper classes.
 See the MASTER branch where they are all displayed.
