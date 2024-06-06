@@ -4,99 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect-Selenium - revizia nr.5 16.05.2024">
-      <change afterPath="$PROJECT_DIR$/screenshot_z31/feat_prod.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot_z31/fullpage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot_z31/logo_pag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot_z31/poza_laptop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Diverse/CapturaEcran/ecran1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Diverse/Clasa_CapturaEcranExe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Clasa_Diverse/Clasa_ScanareDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exercitii/Clasa_Z29_BlazeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exercitii/Clasa_Z29_DummyTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ziua_39/Clasa_BrokenLink_V2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ziua_39/Clasa_BrokenLinks_WitchSwitchDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ziua_39/Clasa_ShadowElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_21/Clasa_OrangeHRMLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_21/Clasa_primaClasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_BrowserMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_33/Clasa_LocationOfElementInPagina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_35/Clasa_ActionsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_35/Clasa_Actions_vs_Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_35/Clasa_DoubleClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_36/Clasa_KeyboardActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_36/Clasa_SelectareEcran_1_2_V1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_36/Clasa_SliderElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_36/Clasa_TabsAndSwitchWindows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_37/Clasa_ApelareCasutaDinIframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_37/Clasa_InteractWithElementUsingJS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_37/Clasa_ScrollPageNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_37/Clasa_ScrollingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_37/Clasa_checkFrameOnURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_38/Clasa_CapturaEcran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_38/Clasa_HeadlessTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_38/Clasa_MutareEcranVer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_38/Clasa_SelectareEcran_1_2_V2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_40/Clasa_CitireExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_40/Clasa_DataDrivenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_40/Clasa_ScriereExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_40/Clasa_ScriereInExcelPeRand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_40/date_ziua40/data_ziua32.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_40/date_ziua40/myfile_ziua32.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_41/Clasa_DataDrivenTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_41/Clasa_ExcelUtilitati.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_41/Clasa_FDCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_41/Clasa_ReadingPropertiesFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_41/Fisiere_41/Icon_" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_41/Fisiere_41/caldata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_41/Fisiere_41/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_la_gramada/Clasa_DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_la_gramada/Clasa_DragAndDrop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_la_gramada/Clasa_DragDrop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_la_gramada/Clasa_DragDrop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_la_gramada/Clasa_DragDrop_Exe1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ziua_la_gramada/Clasa_coockie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_AlertInputInbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_30/Clasa_AlertInputInbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_AlertWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_30/Clasa_AlertWindows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Atribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercitii/Clasa_Atribute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Browser_Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_16_20/Clasa_Browser_Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_CheckBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_ChromeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_16_20/Clasa_ChromeDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Navigate_Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_Navigate_Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_TemaTestare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercitii/Clasa_TemaTestare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_URL_Browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_16_20/Clasa_URL_Browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Wait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_Wait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Explicit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_Wait_Explicit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_Wait_Fluent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_Wait_Fluent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_16_20/Clasa_WebDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_CondCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_WebDriver_CondCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_WebDriver_GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_WebDriver_GetMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Clasa_fizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercitii/Clasa_fizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Locatoare_elemente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_22/Locatoare_elemente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Locator_cssSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_23/Locator_cssSelect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Locator_xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_24/Locator_xpath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Locator_xpath_axes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_25/Locator_xpath_axes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_DropDownNoTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_31/Clasa_DropDownNoTag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_DropDownTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_31/Clasa_DropDownTag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_DropDown_Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_31/Clasa_DropDown_Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_dropDown_AutoSugg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_31/Clasa_dropDown_AutoSugg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_24/Clasa_dropDown_Dynamic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_31/Clasa_dropDown_Dynamic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_la_gramada/Clasa_Frame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_HandleBrowser_Method1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_HandleBrowser_Method1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_HandleBrowser_Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_HandleBrowser_Method2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_26/Clasa_InnerFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_la_gramada/Clasa_InnerFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_HandleTable_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_32/Clasa_HandleTable_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_HandleTable_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_32/Clasa_HandleTable_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_27/Clasa_PaginationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_33/Clasa_PaginationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_DataPicker_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_34/Clasa_DataPicker_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_SmallElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_34/Clasa_SmallElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_28/Clasa_Tema_CumparamBilet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_34/Clasa_Tema_CumparamBilet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Double_click.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_35/Clasa_Double_click.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Mouse_Action1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_35/Clasa_Mouse_Action1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ziua_29/Clasa_Mouse_RightClick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ziua_35/Clasa_Mouse_RightClick.java" afterDir="false" />
-    </list>
+    <list default="true" id="60d8516f-811a-46b0-95f4-6f58de98ff93" name="Changes" comment="Proiect-Selenium - revizia nr.6 06.06.2024&#10;Proiect rearanjat pe zile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715848563996</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Proiect-Selenium - revizia nr.6 06.06.2024&#10;Proiect rearanjat pe zile">
+      <created>1717653304131</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717653304131</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +233,8 @@
     <MESSAGE value="Proiect-Selenium - curs in limba romana" />
     <MESSAGE value="Proiect-Selenium - curs in limba romana - revizia 16.05.2024" />
     <MESSAGE value="Proiect-Selenium - revizia nr.5 16.05.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proiect-Selenium - revizia nr.5 16.05.2024" />
+    <MESSAGE value="Proiect-Selenium - revizia nr.6 06.06.2024&#10;Proiect rearanjat pe zile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proiect-Selenium - revizia nr.6 06.06.2024&#10;Proiect rearanjat pe zile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

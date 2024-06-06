@@ -1,4 +1,4 @@
-package Ziua_39;
+package ziua_39;
 
 /*
     Pentru a putea discuta despre Broken_Links este necesar ca pagina accesata sa fie definita de o valoare, altfel nu

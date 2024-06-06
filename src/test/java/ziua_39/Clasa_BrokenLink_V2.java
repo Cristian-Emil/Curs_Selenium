@@ -1,4 +1,4 @@
-package Ziua_39;
+package ziua_39;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
