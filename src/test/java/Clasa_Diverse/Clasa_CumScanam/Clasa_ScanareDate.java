@@ -1,4 +1,4 @@
-package Clasa_Diverse;
+package Clasa_Diverse.Clasa_CumScanam;
 
 import java.util.Scanner;
 
