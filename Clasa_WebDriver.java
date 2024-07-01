@@ -55,6 +55,7 @@ public class Clasa_WebDriver {
     parte a WebDriver, deci nu este nevoie sa mai fie apelata in mod special
 
 ESTE BINE SA NU FOPLOSIM UN DRIVER/BROWSER SPECIFIC - in acest ca este chromedriver
+Recomandarea este sa folosim WebDriver pentru ca este generic - WEB.
 
     Avem obligatia sa facem up-date pentru driver si selenium la ultima versiune aparuta. Aici folosim chromedriver.
 
