@@ -77,7 +77,7 @@ public class Clasa_TemaTestare {
         driver.quit();
     }
 
-/*  Daca dorim sa inseram alte credentiale pentr USERNAME si PAROLA trebuie sa curatam intia valorile existente:
+/*  Daca dorim sa inseram alte credentiale pentr USERNAME si PAROLA trebuie sa curatam intai valorile existente:
 
     WebElement text_mail_box= driver.findElement(By.xpath("//*[@id=\"nopcommerce-news-box\"]/div[1]/div[1]"));
     text_mail_boc.clear();
