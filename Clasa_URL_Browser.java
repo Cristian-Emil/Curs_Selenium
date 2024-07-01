@@ -108,7 +108,7 @@ public class Clasa_URL_Browser {
 
 
 //  Si inchidem browserul cu "close" dupa care parasim pagina cu "quit" ca sa descarcam memoria computerului
-//        driver.close();
+//        driver.close(); in general comentam aceasta linie pt ca nu este mereu valabila.
         driver.quit();
 // pentru ca primim mereu un mesaj de internal error am decis sa comentam linia de "close" si sa inchidem cu "quit"
     }
